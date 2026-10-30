@@ -43,8 +43,25 @@ Kali Linux also has a second NAT adapter, which provides internet access for upd
 
 ## Evidence
 
-Screenshots in this repository show the VM configurations, network settings, IP assignments and connectivity checks.
+## Evidence
 
+### NAT Network configuration
+![NAT Network](Nat%20Network.png)
+
+### Kali Linux network adapter
+![Kali NAT Network](Kali%20Nat%20Network.png)
+
+### Kali Linux IP address
+![Kali IP Address](Kali%20IP%20Addr.png)
+
+### Network connectivity
+![Kali Network Connectivity](Kali%20Network%20connectivity.png)
+
+### Shared folder
+![Kali Shared Folder](Kali%20shared%20folder.png)
+
+### Baseline snapshot
+![Kali Snapshot](Kali%20Snapshot.png)
 ## Scope Note
 
 Windows 11 was excluded from this phase. All testing is performed only on systems built and owned for this lab.
