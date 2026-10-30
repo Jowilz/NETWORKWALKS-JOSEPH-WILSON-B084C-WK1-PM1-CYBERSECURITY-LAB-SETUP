@@ -43,8 +43,6 @@ Kali Linux also has a second NAT adapter, which provides internet access for upd
 
 ## Evidence
 
-## Evidence
-
 ### NAT Network configuration
 ![NAT Network](Nat%20Network.png)
 
